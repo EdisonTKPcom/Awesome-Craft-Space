@@ -1,0 +1,252 @@
+name,location,country,latitude,longitude,total_launch_count,active,source_url,fetch_date
+Space Launch Complex 17B,"Cape Canaveral SFS, FL, USA",United States of America,28.4458,-80.5657,132,true,https://ll.thespacedevs.com/2.3.0/pads/1/,2026-11-15
+45/1,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.943492,63.653014,47,true,https://ll.thespacedevs.com/2.3.0/pads/2/,2026-11-15
+133/3 (133L),"Plesetsk Cosmodrome, Russian Federation",Russia,62.886999,40.846984,159,true,https://ll.thespacedevs.com/2.3.0/pads/3/,2026-11-15
+Launch Complex 39B,"Kennedy Space Center, FL, USA",United States of America,28.62711233,-80.62101503,59,true,https://ll.thespacedevs.com/2.3.0/pads/4/,2026-11-15
+175/59,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.052,62.986,3,true,https://ll.thespacedevs.com/2.3.0/pads/5/,2026-11-15
+Launch Area 2A,"Jiuquan Satellite Launch Center, People's Republic of China",China,41.308833,100.316512,2,true,https://ll.thespacedevs.com/2.3.0/pads/6/,2026-11-15
+81/24 (81P),"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.071001,62.984999,93,true,https://ll.thespacedevs.com/2.3.0/pads/7/,2026-11-15
+Space Launch Complex 8,"Vandenberg SFB, CA, USA",United States of America,34.57635,-120.63245,10,true,https://ll.thespacedevs.com/2.3.0/pads/8/,2026-11-15
+Launch Area 96A,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.91491,100.245488,10,true,https://ll.thespacedevs.com/2.3.0/pads/9/,2026-11-15
+Osaki Launch Complex,"Tanegashima Space Center, Japan",Japan,30.3993934,130.9702486,24,true,https://ll.thespacedevs.com/2.3.0/pads/10/,2026-11-15
+Space Launch Complex 6,"Vandenberg SFB, CA, USA",United States of America,34.5815,-120.6262,14,true,https://ll.thespacedevs.com/2.3.0/pads/11/,2026-11-15
+109/95,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.95112,63.497095,12,true,https://ll.thespacedevs.com/2.3.0/pads/12/,2026-11-15
+Launch Platform Odyssey,Sea Launch,,0.0,-154.0,36,true,https://ll.thespacedevs.com/2.3.0/pads/13/,2026-11-15
+Space Launch Complex 17A,"Cape Canaveral SFS, FL, USA",United States of America,28.4472,-80.565,145,true,https://ll.thespacedevs.com/2.3.0/pads/14/,2026-11-15
+200/39 (200L),"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.039984,63.032093,167,true,https://ll.thespacedevs.com/2.3.0/pads/15/,2026-11-15
+Space Launch Complex 4E,"Vandenberg SFB, CA, USA",United States of America,34.632,-120.611,308,true,https://ll.thespacedevs.com/2.3.0/pads/16/,2026-11-15
+Space Launch Complex 14,"Cape Canaveral SFS, FL, USA",United States of America,28.49103,-80.54687,20,true,https://ll.thespacedevs.com/2.3.0/pads/17/,2026-11-15
+Launch Complex 19,"Cape Canaveral SFS, FL, USA",United States of America,28.506898,-80.554169,12,true,https://ll.thespacedevs.com/2.3.0/pads/18/,2026-11-15
+Launch Complex 34,"Cape Canaveral SFS, FL, USA",United States of America,28.521811,-80.56113,9,true,https://ll.thespacedevs.com/2.3.0/pads/19/,2026-11-15
+31/6,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.996034,63.564003,430,true,https://ll.thespacedevs.com/2.3.0/pads/20/,2026-11-15
+Launch Area 95A,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.969117,100.343333,69,true,https://ll.thespacedevs.com/2.3.0/pads/21/,2026-11-15
+Launch Area 94 (SLS-2 / 603),"Jiuquan Satellite Launch Center, People's Republic of China",China,40.960482,100.298059,140,true,https://ll.thespacedevs.com/2.3.0/pads/22/,2026-11-15
+Space Launch Complex 37A,"Cape Canaveral SFS, FL, USA",United States of America,28.533482,-80.568101,1,false,https://ll.thespacedevs.com/2.3.0/pads/23/,2026-11-15
+Space Launch Complex 3E,"Vandenberg SFB, CA, USA",United States of America,34.64,-120.5895,48,true,https://ll.thespacedevs.com/2.3.0/pads/24/,2026-11-15
+Launch Complex 9,"Taiyuan Satellite Launch Center, People's Republic of China",China,38.863128,111.589567,80,true,https://ll.thespacedevs.com/2.3.0/pads/25/,2026-11-15
+Launch Area 95B,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.972407,100.363691,2,true,https://ll.thespacedevs.com/2.3.0/pads/26/,2026-11-15
+Space Launch Complex 46,"Cape Canaveral SFS, FL, USA",United States of America,28.4584,-80.5284,6,true,https://ll.thespacedevs.com/2.3.0/pads/27/,2026-11-15
+132/1 (132L),"Plesetsk Cosmodrome, Russian Federation",Russia,62.883229,40.868549,212,true,https://ll.thespacedevs.com/2.3.0/pads/28/,2026-11-15
+Space Launch Complex 41,"Cape Canaveral SFS, FL, USA",United States of America,28.58341025,-80.58303644,125,true,https://ll.thespacedevs.com/2.3.0/pads/29/,2026-11-15
+Launch Complex 48,"Kennedy Space Center, FL, USA",United States of America,28.5990626125553,-80.60428186,0,true,https://ll.thespacedevs.com/2.3.0/pads/30/,2026-11-15
+81/23 (81L),"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.073997,62.977999,104,true,https://ll.thespacedevs.com/2.3.0/pads/31/,2026-11-15
+1/5,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.92,63.342,487,true,https://ll.thespacedevs.com/2.3.0/pads/32/,2026-11-15
+Launch Complex 7,"Taiyuan Satellite Launch Center, People's Republic of China",China,38.8489311,111.6079339,32,true,https://ll.thespacedevs.com/2.3.0/pads/33/,2026-11-15
+Ariane Launch Area 1 (ELV),"Guiana Space Centre, French Guiana",French Guiana,5.236,-52.775,56,true,https://ll.thespacedevs.com/2.3.0/pads/34/,2026-11-15
+16/2,"Plesetsk Cosmodrome, Russian Federation",Russia,62.960091,40.682983,136,true,https://ll.thespacedevs.com/2.3.0/pads/35/,2026-11-15
+43/3 (43L),"Plesetsk Cosmodrome, Russian Federation",Russia,62.9273,40.45,235,true,https://ll.thespacedevs.com/2.3.0/pads/36/,2026-11-15
+Launch Area 91 (SLS-1 / 921),"Jiuquan Satellite Launch Center, People's Republic of China",China,40.957893,100.290944,29,true,https://ll.thespacedevs.com/2.3.0/pads/37/,2026-11-15
+Space Launch Complex 37B,"Cape Canaveral SFS, FL, USA",United States of America,28.5317,-80.56495,40,true,https://ll.thespacedevs.com/2.3.0/pads/38/,2026-11-15
+Space Launch Complex 2W,"Vandenberg SFB, CA, USA",United States of America,34.7556,-120.6224,99,true,https://ll.thespacedevs.com/2.3.0/pads/39/,2026-11-15
+SLV-3 Launch Pad,"Satish Dhawan Space Centre, India",India,13.666193,80.227231,8,false,https://ll.thespacedevs.com/2.3.0/pads/40/,2026-11-15
+Yoshinobu Launch Complex LP-1,"Tanegashima Space Center, Japan",Japan,30.400813,130.977748,57,true,https://ll.thespacedevs.com/2.3.0/pads/41/,2026-11-15
+35/1,"Plesetsk Cosmodrome, Russian Federation",Russia,62.927319,40.574897,12,true,https://ll.thespacedevs.com/2.3.0/pads/42/,2026-11-15
+KS Center,"Uchinoura Space Center, Japan",Japan,31.2519752,131.0791609,7,true,https://ll.thespacedevs.com/2.3.0/pads/43/,2026-11-15
+Unknown Pad,"Dombarovskiy, Russian Federation",Russia,51.036,59.958,0,true,https://ll.thespacedevs.com/2.3.0/pads/44/,2026-11-15
+Launch Complex 2 (LC-2),"Xichang Satellite Launch Center, People's Republic of China",China,28.245504,102.026768,126,true,https://ll.thespacedevs.com/2.3.0/pads/45/,2026-11-15
+Gran Canaria,Air launch to orbit,Spain,27.966667,-15.6,1,true,https://ll.thespacedevs.com/2.3.0/pads/46/,2026-11-15
+Mu Center,"Uchinoura Space Center, Japan",Japan,31.2509794,131.0821319,36,true,https://ll.thespacedevs.com/2.3.0/pads/47/,2026-11-15
+Unknown Pad,"Plesetsk Cosmodrome, Russian Federation",Russia,62.925556,40.577778,0,true,https://ll.thespacedevs.com/2.3.0/pads/48/,2026-11-15
+Satish Dhawan Space Centre First Launch Pad,"Satish Dhawan Space Centre, India",India,13.733,80.235,64,true,https://ll.thespacedevs.com/2.3.0/pads/50/,2026-11-15
+Orbital Launch Pad,Andøya Spaceport,Norway,69.1084,15.5895,2,true,https://ll.thespacedevs.com/2.3.0/pads/51/,2026-11-15
+Wallops Flight Facility,Air launch to orbit,United States of America,37.938611,-75.457222,6,true,https://ll.thespacedevs.com/2.3.0/pads/52/,2026-11-15
+Mojave Air and Space Port,Air launch to orbit,United States of America,35.059444,-118.151667,5,true,https://ll.thespacedevs.com/2.3.0/pads/53/,2026-11-15
+Space Launch Complex 576E,"Vandenberg SFB, CA, USA",United States of America,34.739444,-120.619167,9,false,https://ll.thespacedevs.com/2.3.0/pads/55/,2026-11-15
+Launch Area 0 B,"Wallops Flight Facility, Virginia, USA",United States of America,37.831,-75.4911,8,true,https://ll.thespacedevs.com/2.3.0/pads/56/,2026-11-15
+Launch Pad 1,"Pacific Spaceport Complex, Alaska, USA",United States of America,57.435833,-152.337778,3,true,https://ll.thespacedevs.com/2.3.0/pads/57/,2026-11-15
+Safir Launch Pad,"Semnan Space Center, Islamic Republic of Iran",Iran,35.23462,53.920936,8,true,https://ll.thespacedevs.com/2.3.0/pads/58/,2026-11-15
+Kwajalein Atoll,Air launch to orbit,Marshall Islands,8.716667,167.733333,5,true,https://ll.thespacedevs.com/2.3.0/pads/59/,2026-11-15
+Unknown Pad,"Taiyuan Satellite Launch Center, People's Republic of China",China,38.849,111.608,0,true,https://ll.thespacedevs.com/2.3.0/pads/60/,2026-11-15
+Space Launch Complex 10E,"Vandenberg SFB, CA, USA",United States of America,34.7626,-120.6213,1,false,https://ll.thespacedevs.com/2.3.0/pads/61/,2026-11-15
+Vandenberg Space Force Base,Air launch to orbit,United States of America,34.732778,-120.568056,22,true,https://ll.thespacedevs.com/2.3.0/pads/62/,2026-11-15
+LP-41,"Pacific Missile Range Facility, Barking Sands, HI, USA",United States of America,21.982029,-159.759328,1,true,https://ll.thespacedevs.com/2.3.0/pads/63/,2026-11-15
+LC-1,"Naro Space Center, South Korea",South Korea,34.431867,127.535069,3,true,https://ll.thespacedevs.com/2.3.0/pads/64/,2026-11-15
+Rocket Lab Launch Complex 1A,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",New Zealand,-39.262833,177.864469,46,true,https://ll.thespacedevs.com/2.3.0/pads/65/,2026-11-15
+Launch Complex 3 (LC-3/LA-1),"Xichang Satellite Launch Center, People's Republic of China",China,28.247059,102.029008,109,true,https://ll.thespacedevs.com/2.3.0/pads/66/,2026-11-15
+Ariane Launch Area 4,"Guiana Space Centre, French Guiana",French Guiana,5.256319,-52.786838,9,true,https://ll.thespacedevs.com/2.3.0/pads/67/,2026-11-15
+Unknown Pad,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.92,63.342,0,true,https://ll.thespacedevs.com/2.3.0/pads/68/,2026-11-15
+Unknown Pad,"Tanegashima Space Center, Japan",Japan,30.401,130.977,0,true,https://ll.thespacedevs.com/2.3.0/pads/69/,2026-11-15
+Edwards Air Force Base,Air launch to orbit,United States of America,34.905556,-117.883611,5,true,https://ll.thespacedevs.com/2.3.0/pads/70/,2026-11-15
+Unknown Pad,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.958,100.291,0,true,https://ll.thespacedevs.com/2.3.0/pads/71/,2026-11-15
+Unknown Pad,"Cape Canaveral SFS, FL, USA",United States of America,28.458,-80.528,0,true,https://ll.thespacedevs.com/2.3.0/pads/72/,2026-11-15
+Unknown Pad,"Satish Dhawan Space Centre, India",India,13.733,80.235,0,true,https://ll.thespacedevs.com/2.3.0/pads/73/,2026-11-15
+Unha Launch Pad,"Sohae Satellite Launching Station,  Cholsan County, North Pyongan Province, Democratic People's Republic of Korea",North Korea,39.660065,124.705366,3,true,https://ll.thespacedevs.com/2.3.0/pads/74/,2026-11-15
+Shavit Launch Pad,"Palmachim Airbase, State of Israel",Israel,31.884444,34.680278,13,true,https://ll.thespacedevs.com/2.3.0/pads/75/,2026-11-15
+Launch Area 0 A,"Wallops Flight Facility, Virginia, USA",United States of America,37.8337,-75.4881,19,true,https://ll.thespacedevs.com/2.3.0/pads/76/,2026-11-15
+Ariane Launch Area 3,"Guiana Space Centre, French Guiana",French Guiana,5.239,-52.768,118,false,https://ll.thespacedevs.com/2.3.0/pads/77/,2026-11-15
+Unknown Pad,"Wenchang Space Launch Site, People's Republic of China",China,19.614354,110.951057,0,true,https://ll.thespacedevs.com/2.3.0/pads/78/,2026-11-15
+Rocket Lab Launch Complex 2 (Launch Area 0 C),"Wallops Flight Facility, Virginia, USA",United States of America,37.833262,-75.488235,13,true,https://ll.thespacedevs.com/2.3.0/pads/79/,2026-11-15
+Space Launch Complex 40,"Cape Canaveral SFS, FL, USA",United States of America,28.56194122,-80.57735736,404,true,https://ll.thespacedevs.com/2.3.0/pads/80/,2026-11-15
+Soyuz Launch Complex,"Guiana Space Centre, French Guiana",French Guiana,5.3019,-52.8346,26,false,https://ll.thespacedevs.com/2.3.0/pads/81/,2026-11-15
+Satish Dhawan Space Centre Second Launch Pad,"Satish Dhawan Space Centre, India",India,13.7199,80.2304,34,true,https://ll.thespacedevs.com/2.3.0/pads/82/,2026-11-15
+Cosmodrome Site 1S,"Vostochny Cosmodrome, Siberia, Russian Federation",Russia,51.884395,128.333932,21,true,https://ll.thespacedevs.com/2.3.0/pads/83/,2026-11-15
+Cape Canaveral,Air launch to orbit,United States of America,28.455556,-80.527778,7,true,https://ll.thespacedevs.com/2.3.0/pads/84/,2026-11-15
+43/4 (43R),"Plesetsk Cosmodrome, Russian Federation",Russia,62.92883,40.457098,329,true,https://ll.thespacedevs.com/2.3.0/pads/85/,2026-11-15
+Unknown Pad,"Xichang Satellite Launch Center, People's Republic of China",China,28.246017,102.026556,0,true,https://ll.thespacedevs.com/2.3.0/pads/86/,2026-11-15
+Launch Complex 39A,"Kennedy Space Center, FL, USA",United States of America,28.60822681,-80.60428186,224,true,https://ll.thespacedevs.com/2.3.0/pads/87/,2026-11-15
+Imam Khomeini Spaceport,"Semnan Space Center, Islamic Republic of Iran",Iran,35.237005,53.9505,7,true,https://ll.thespacedevs.com/2.3.0/pads/88/,2026-11-15
+Haiyang offshore launch location,Haiyang Oriental Spaceport,China,36.631333,121.198361,10,true,https://ll.thespacedevs.com/2.3.0/pads/89/,2026-11-15
+West Texas Suborbital Launch Site/ Corn Ranch,"Corn Ranch, Van Horn, TX, USA",United States of America,31.422878,-104.757121,38,true,https://ll.thespacedevs.com/2.3.0/pads/90/,2026-11-15
+Launch Complex 16,"Cape Canaveral SFS, FL, USA",United States of America,28.501626,-80.5518,1,true,https://ll.thespacedevs.com/2.3.0/pads/92/,2026-11-15
+Space Launch Complex 3W,"Vandenberg SFB, CA, USA",United States of America,34.644,-120.593,81,false,https://ll.thespacedevs.com/2.3.0/pads/93/,2026-11-15
+Launch Area 3,"Wallops Flight Facility, Virginia, USA",United States of America,37.8495,-75.4725,13,true,https://ll.thespacedevs.com/2.3.0/pads/94/,2026-11-15
+Space Launch Complex 1W,"Vandenberg SFB, CA, USA",United States of America,34.7572,-120.6303,56,false,https://ll.thespacedevs.com/2.3.0/pads/95/,2026-11-15
+Space Launch Complex 1E,"Vandenberg SFB, CA, USA",United States of America,34.756,-120.6263,45,false,https://ll.thespacedevs.com/2.3.0/pads/96/,2026-11-15
+Launch Complex 26B,"Cape Canaveral SFS, FL, USA",United States of America,28.4433,-80.5712,6,true,https://ll.thespacedevs.com/2.3.0/pads/97/,2026-11-15
+Space Launch Complex 2E,"Vandenberg SFB, CA, USA",United States of America,34.7516,-120.6192,47,false,https://ll.thespacedevs.com/2.3.0/pads/98/,2026-11-15
+Launch Complex 12,"Cape Canaveral SFS, FL, USA",United States of America,28.480607,-80.541938,23,true,https://ll.thespacedevs.com/2.3.0/pads/99/,2026-11-15
+Mayak-2,"Kapustin Yar, Russian Federation",Russia,48.569551,46.295814,24,true,https://ll.thespacedevs.com/2.3.0/pads/100/,2026-11-15
+Unknown Pad,Sea Launch,,,,0,true,https://ll.thespacedevs.com/2.3.0/pads/101/,2026-11-15
+110/38 (110R),"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.962121,63.310212,2,true,https://ll.thespacedevs.com/2.3.0/pads/102/,2026-11-15
+110/37 (110L),"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.964747,63.304744,3,true,https://ll.thespacedevs.com/2.3.0/pads/103/,2026-11-15
+Guam International Airport,Air launch to orbit,United States of America,13.483889,144.797222,0,true,https://ll.thespacedevs.com/2.3.0/pads/104/,2026-11-15
+Vertical Launch Area,"Spaceport America, NM, USA",United States of America,32.9901856,-106.9750602,4,true,https://ll.thespacedevs.com/2.3.0/pads/105/,2026-11-15
+Launch Complex 0,"Hokkaido Spaceport, Japan",Japan,42.5,143.441389,7,true,https://ll.thespacedevs.com/2.3.0/pads/106/,2026-11-15
+Omelek Island,"Ronald Reagan Ballistic Missile Defense Test Site, Kwajalein Atoll, Marshall Islands",Marshall Islands,9.047861,167.743,5,true,https://ll.thespacedevs.com/2.3.0/pads/107/,2026-11-15
+Cosmodrome Site 1A,"Vostochny Cosmodrome, Siberia, Russian Federation",Russia,51.884395,128.333932,1,true,https://ll.thespacedevs.com/2.3.0/pads/108/,2026-11-15
+Cecil Air and Space Port,Air launch to orbit,United States of America,30.224166,-81.876236,0,true,https://ll.thespacedevs.com/2.3.0/pads/109/,2026-11-15
+Andersen Air Force Base,Air launch to orbit,United States of America,13.581111,144.924444,0,true,https://ll.thespacedevs.com/2.3.0/pads/110/,2026-11-15
+Suborbital Pad A,"SpaceX Starbase, TX, USA",United States of America,25.997116,-97.15503099856647,7,false,https://ll.thespacedevs.com/2.3.0/pads/111/,2026-11-15
+Edwards Air Force Base,Air launch to Suborbital flight,United States of America,34.905556,-117.883611,13,true,https://ll.thespacedevs.com/2.3.0/pads/112/,2026-11-15
+Launch Complex 16,"Taiyuan Satellite Launch Center, People's Republic of China",China,38.868222,111.58024,16,true,https://ll.thespacedevs.com/2.3.0/pads/113/,2026-11-15
+Launch Pad 3B,"Pacific Spaceport Complex, Alaska, USA",United States of America,57.430673,-152.353077,5,true,https://ll.thespacedevs.com/2.3.0/pads/114/,2026-11-15
+Launch Platform,"Shahrud Missile Test Site, Islamic Republic of Iran",Iran,36.200595,55.333939,6,true,https://ll.thespacedevs.com/2.3.0/pads/115/,2026-11-15
+Launch Complex 11,"Cape Canaveral SFS, FL, USA",United States of America,28.4755556,-80.5427496,1,true,https://ll.thespacedevs.com/2.3.0/pads/116/,2026-11-15
+Space Launch Complex 13,"Cape Canaveral SFS, FL, USA",United States of America,28.4859,-80.546594,21,true,https://ll.thespacedevs.com/2.3.0/pads/117/,2026-11-15
+Launch Complex 18A,"Cape Canaveral SFS, FL, USA",United States of America,28.4493,-80.564494,18,true,https://ll.thespacedevs.com/2.3.0/pads/118/,2026-11-15
+Launch Complex 18B,"Cape Canaveral SFS, FL, USA",United States of America,28.4493,-80.564494,1,true,https://ll.thespacedevs.com/2.3.0/pads/119/,2026-11-15
+Space Launch Complex 20,"Cape Canaveral SFS, FL, USA",United States of America,28.5122222,-80.5588607,4,true,https://ll.thespacedevs.com/2.3.0/pads/120/,2026-11-15
+Launch Complex 36A,"Cape Canaveral SFS, FL, USA",United States of America,28.4705556,-80.542194,71,true,https://ll.thespacedevs.com/2.3.0/pads/121/,2026-11-15
+Launch Complex 36B,"Cape Canaveral SFS, FL, USA",United States of America,28.4705556,-80.542194,76,true,https://ll.thespacedevs.com/2.3.0/pads/122/,2026-11-15
+Launch Complex 5,"Cape Canaveral SFS, FL, USA",United States of America,28.43942,-80.573301,13,true,https://ll.thespacedevs.com/2.3.0/pads/123/,2026-11-15
+Ariane Launch Area 2,"Guiana Space Centre, French Guiana",French Guiana,5.232,-52.778194,119,false,https://ll.thespacedevs.com/2.3.0/pads/124/,2026-11-15
+Diamant Launch Area,"Guiana Space Centre, French Guiana",French Guiana,5.2222222,-52.7758051,8,false,https://ll.thespacedevs.com/2.3.0/pads/125/,2026-11-15
+32/1,"Plesetsk Cosmodrome, Russian Federation",Russia,62.9063889,40.7844727,57,true,https://ll.thespacedevs.com/2.3.0/pads/126/,2026-11-15
+32/2,"Plesetsk Cosmodrome, Russian Federation",Russia,62.9063889,40.7844727,65,true,https://ll.thespacedevs.com/2.3.0/pads/127/,2026-11-15
+5,"Svobodny Cosmodrome, Russian Federation",Russia,51.7,127.997806,5,true,https://ll.thespacedevs.com/2.3.0/pads/128/,2026-11-15
+175/58,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.051,62.984806,1,true,https://ll.thespacedevs.com/2.3.0/pads/129/,2026-11-15
+200/40,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.0336111,63.0266949,64,true,https://ll.thespacedevs.com/2.3.0/pads/130/,2026-11-15
+45/2,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.943,63.650806,2,true,https://ll.thespacedevs.com/2.3.0/pads/131/,2026-11-15
+90,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.081,62.929806,74,true,https://ll.thespacedevs.com/2.3.0/pads/132/,2026-11-15
+90/19,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.081,62.929806,16,true,https://ll.thespacedevs.com/2.3.0/pads/133/,2026-11-15
+90/20,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.081,62.929806,23,true,https://ll.thespacedevs.com/2.3.0/pads/134/,2026-11-15
+158,"Plesetsk Cosmodrome, Russian Federation",Russia,62.9255556,40.5755838,2,true,https://ll.thespacedevs.com/2.3.0/pads/135/,2026-11-15
+107,"Kapustin Yar, Russian Federation",Russia,48.540716,46.296826,3,true,https://ll.thespacedevs.com/2.3.0/pads/136/,2026-11-15
+107/1,"Kapustin Yar, Russian Federation",Russia,48.540716,46.296826,20,true,https://ll.thespacedevs.com/2.3.0/pads/137/,2026-11-15
+107/2,"Kapustin Yar, Russian Federation",Russia,48.540716,46.296826,4,true,https://ll.thespacedevs.com/2.3.0/pads/138/,2026-11-15
+86/1,"Kapustin Yar, Russian Federation",Russia,48.56935,46.293219,26,true,https://ll.thespacedevs.com/2.3.0/pads/139/,2026-11-15
+86/4,"Kapustin Yar, Russian Federation",Russia,48.56935,46.293219,24,true,https://ll.thespacedevs.com/2.3.0/pads/140/,2026-11-15
+Brigitte,"Interarmy Special Vehicles Test Centre, French Algeria",France,30.7787318,-3.0669721,4,true,https://ll.thespacedevs.com/2.3.0/pads/141/,2026-11-15
+Kaituozhe Launch Pad,"Taiyuan Satellite Launch Center, People's Republic of China",China,38.835756,111.606406,3,true,https://ll.thespacedevs.com/2.3.0/pads/142/,2026-11-15
+Launch Area 2B,"Jiuquan Satellite Launch Center, People's Republic of China",China,41.306143,100.313229,26,true,https://ll.thespacedevs.com/2.3.0/pads/143/,2026-11-15
+Yellow Sea (launch location 2),Haiyang Oriental Spaceport,China,34.311667,123.761111,1,true,https://ll.thespacedevs.com/2.3.0/pads/144/,2026-11-15
+Naval Air Weapons Station China Lake,Air launch to Suborbital flight,United States of America,35.6855556,-117.6941384,6,true,https://ll.thespacedevs.com/2.3.0/pads/145/,2026-11-15
+VLS Pad,"Alcântara Space Center, Federative Republic of Brazil",Brazil,-2.3177,-44.369984,2,true,https://ll.thespacedevs.com/2.3.0/pads/146/,2026-11-15
+Novomoskovsk (K-407),Sea Launch,Russia,74.0,38.0,1,true,https://ll.thespacedevs.com/2.3.0/pads/147/,2026-11-15
+Borisoglebsk (K-496),Sea Launch,Russia,74.0,38.0,1,true,https://ll.thespacedevs.com/2.3.0/pads/148/,2026-11-15
+Ekaterinburg (K-84),Sea Launch,Russia,74.0,38.0,1,true,https://ll.thespacedevs.com/2.3.0/pads/149/,2026-11-15
+Launch Area 120,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.855242,100.199634,1,true,https://ll.thespacedevs.com/2.3.0/pads/150/,2026-11-15
+Launch Area 130,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.8182,100.22514,16,true,https://ll.thespacedevs.com/2.3.0/pads/151/,2026-11-15
+Space Launch Complex 5,"Vandenberg SFB, CA, USA",United States of America,34.608,-120.6247,69,false,https://ll.thespacedevs.com/2.3.0/pads/154/,2026-11-15
+San Marco platform,"Broglio Space Center, Kenya",Italy,-2.9383333,40.210306,9,true,https://ll.thespacedevs.com/2.3.0/pads/155/,2026-11-15
+Space Launch Complex 4W,"Vandenberg SFB, CA, USA",United States of America,34.63312,-120.61584,93,false,https://ll.thespacedevs.com/2.3.0/pads/156/,2026-11-15
+Mobile Launcher Pad,"Xichang Satellite Launch Center, People's Republic of China",China,28.242774,102.032944,8,true,https://ll.thespacedevs.com/2.3.0/pads/157/,2026-11-15
+Mobile Launcher Pad,"Taiyuan Satellite Launch Center, People's Republic of China",China,38.890002,111.608129,2,true,https://ll.thespacedevs.com/2.3.0/pads/158/,2026-11-15
+131,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.072,62.953806,1,true,https://ll.thespacedevs.com/2.3.0/pads/159/,2026-11-15
+161/35,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.034,63.060806,7,true,https://ll.thespacedevs.com/2.3.0/pads/160/,2026-11-15
+162/36,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.032,63.064806,9,true,https://ll.thespacedevs.com/2.3.0/pads/161/,2026-11-15
+191/66,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.97,63.194806,4,true,https://ll.thespacedevs.com/2.3.0/pads/162/,2026-11-15
+250,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,46.008,63.302806,1,true,https://ll.thespacedevs.com/2.3.0/pads/163/,2026-11-15
+41/15,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.976,63.666806,12,true,https://ll.thespacedevs.com/2.3.0/pads/164/,2026-11-15
+67/21,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.989,63.702806,2,true,https://ll.thespacedevs.com/2.3.0/pads/165/,2026-11-15
+67/22,"Baikonur Cosmodrome, Republic of Kazakhstan",Kazakhstan,45.99,63.704806,1,true,https://ll.thespacedevs.com/2.3.0/pads/166/,2026-11-15
+132/2,"Plesetsk Cosmodrome, Russian Federation",Russia,62.883,40.869806,172,true,https://ll.thespacedevs.com/2.3.0/pads/167/,2026-11-15
+41/1,"Plesetsk Cosmodrome, Russian Federation",Russia,62.941,40.526806,310,true,https://ll.thespacedevs.com/2.3.0/pads/168/,2026-11-15
+Launch Complex A,"Vandenberg SFB, CA, USA",United States of America,34.6638,-120.6022,1,false,https://ll.thespacedevs.com/2.3.0/pads/169/,2026-11-15
+576B3,"Vandenberg SFB, CA, USA",United States of America,34.7897222,-120.5980273,7,false,https://ll.thespacedevs.com/2.3.0/pads/170/,2026-11-15
+Space Launch Complex 10W,"Vandenberg SFB, CA, USA",United States of America,34.7652778,-120.6244162,31,false,https://ll.thespacedevs.com/2.3.0/pads/171/,2026-11-15
+576A2,"Vandenberg SFB, CA, USA",United States of America,34.7394444,-120.6213607,4,false,https://ll.thespacedevs.com/2.3.0/pads/172/,2026-11-15
+576A1,"Vandenberg SFB, CA, USA",United States of America,34.7394444,-120.6213607,1,false,https://ll.thespacedevs.com/2.3.0/pads/173/,2026-11-15
+Space Launch Complex 11,"Vandenberg SFB, CA, USA",United States of America,34.572855,-120.632976,0,false,https://ll.thespacedevs.com/2.3.0/pads/174/,2026-11-15
+101,"Wenchang Space Launch Site, People's Republic of China",China,19.614334,110.951011,18,true,https://ll.thespacedevs.com/2.3.0/pads/175/,2026-11-15
+201,"Wenchang Space Launch Site, People's Republic of China",China,19.618452,110.955356,33,true,https://ll.thespacedevs.com/2.3.0/pads/176/,2026-11-15
+Unknown Pad,"Wallops Flight Facility, Virginia, USA",United States of America,37.9386111,-75.4594162,8,true,https://ll.thespacedevs.com/2.3.0/pads/177/,2026-11-15
+Launch Area 3A,"Wallops Flight Facility, Virginia, USA",United States of America,37.8495,-75.4725,18,true,https://ll.thespacedevs.com/2.3.0/pads/178/,2026-11-15
+Launch Area 5B,RAAF Woomera Range Complex,Australia,-30.9552778,136.5300282,2,true,https://ll.thespacedevs.com/2.3.0/pads/179/,2026-11-15
+Launch Area 6A,RAAF Woomera Range Complex,Australia,-30.9552778,136.5300282,3,true,https://ll.thespacedevs.com/2.3.0/pads/180/,2026-11-15
+Launch Area 8,RAAF Woomera Range Complex,Australia,-30.9552778,136.5300282,1,true,https://ll.thespacedevs.com/2.3.0/pads/181/,2026-11-15
+370/11,"Dombarovskiy, Russian Federation",Russia,51.0938889,59.8400282,2,true,https://ll.thespacedevs.com/2.3.0/pads/182/,2026-11-15
+370/13,"Dombarovskiy, Russian Federation",Russia,51.0938889,59.8400282,8,true,https://ll.thespacedevs.com/2.3.0/pads/183/,2026-11-15
+Satellite Launch Pad,Tonghae Satellite Launching Ground,North Korea,40.855799,129.665895,2,true,https://ll.thespacedevs.com/2.3.0/pads/184/,2026-11-15
+Rocket Lab Launch Complex 1B,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",New Zealand,-39.262833,177.864469,41,true,https://ll.thespacedevs.com/2.3.0/pads/185/,2026-11-15
+Yellow Sea (launch location 1),Haiyang Oriental Spaceport,China,34.899444,121.190278,1,true,https://ll.thespacedevs.com/2.3.0/pads/186/,2026-11-15
+Suborbital Pad B,"SpaceX Starbase, TX, USA",United States of America,25.997116,-97.15503099856647,2,false,https://ll.thespacedevs.com/2.3.0/pads/187/,2026-11-15
+Orbital Launch Pad 1,"SpaceX Starbase, TX, USA",United States of America,25.9962,-97.154423,11,true,https://ll.thespacedevs.com/2.3.0/pads/188/,2026-11-15
+Spaceport Cornwall,Air launch to orbit,United Kingdom,50.4408333,-4.9974718,1,true,https://ll.thespacedevs.com/2.3.0/pads/189/,2026-11-15
+Mojave Air and Space Port,Air launch to Suborbital flight,United States of America,35.0594444,-118.1538607,53,true,https://ll.thespacedevs.com/2.3.0/pads/190/,2026-11-15
+Spaceport America,Air launch to Suborbital flight,United States of America,32.9902778,-106.9719162,14,true,https://ll.thespacedevs.com/2.3.0/pads/191/,2026-11-15
+LC-2,"Naro Space Center, South Korea",South Korea,34.431867,127.535069,6,true,https://ll.thespacedevs.com/2.3.0/pads/192/,2026-11-15
+Launch Complex 26A,"Cape Canaveral SFS, FL, USA",United States of America,28.4433,-80.5712,3,true,https://ll.thespacedevs.com/2.3.0/pads/193/,2026-11-15
+Launch Complex 36,White Sands Missile Range,United States of America,32.416944,-106.321944,5,true,https://ll.thespacedevs.com/2.3.0/pads/194/,2026-11-15
+Launch Area 1,"Wallops Flight Facility, Virginia, USA",United States of America,37.938611,-75.457222,7,true,https://ll.thespacedevs.com/2.3.0/pads/195/,2026-11-15
+Launch Area 4,"Wallops Flight Facility, Virginia, USA",United States of America,37.938611,-75.457222,1,true,https://ll.thespacedevs.com/2.3.0/pads/196/,2026-11-15
+Pad 1,"Whalers Way Orbital Launch Complex, South Australia",Australia,-34.937822,135.630035,1,true,https://ll.thespacedevs.com/2.3.0/pads/197/,2026-11-15
+Launch Pad 3C,"Pacific Spaceport Complex, Alaska, USA",United States of America,57.431239,-152.350749,1,true,https://ll.thespacedevs.com/2.3.0/pads/199/,2026-11-15
+Launch Complex 9A,"Taiyuan Satellite Launch Center, People's Republic of China",China,38.8583,111.5802,30,true,https://ll.thespacedevs.com/2.3.0/pads/200/,2026-11-15
+Launch Complex,Sutherland Spaceport,United Kingdom,58.022058,-4.402414,0,true,https://ll.thespacedevs.com/2.3.0/pads/201/,2026-11-15
+Suborbital Launch Ramp,Arnhem Space Centre,Australia,-12.3892948,136.7903215,3,true,https://ll.thespacedevs.com/2.3.0/pads/202/,2026-11-15
+Launch Complex 39A Starship Pad,"Kennedy Space Center, FL, USA",United States of America,28.60822681,-80.60428186,0,false,https://ll.thespacedevs.com/2.3.0/pads/203/,2026-11-15
+Launch Pad Fredo,SaxaVord Spaceport,United Kingdom,60.8187,-0.774196,0,true,https://ll.thespacedevs.com/2.3.0/pads/205/,2026-11-15
+Space Launch Complex 15,"Cape Canaveral SFS, FL, USA",United States of America,28.4963,-80.5493,0,true,https://ll.thespacedevs.com/2.3.0/pads/206/,2026-11-15
+Médano del Loro,El Arenosillo Test Centre,Spain,37.09687,-6.73863,1,true,https://ll.thespacedevs.com/2.3.0/pads/207/,2026-11-15
+Malligyong-1 Pad,"Sohae Satellite Launching Station,  Cholsan County, North Pyongan Province, Democratic People's Republic of Korea",North Korea,39.652861,124.736639,4,true,https://ll.thespacedevs.com/2.3.0/pads/208/,2026-11-15
+Yoshinobu Launch Complex LP-2,"Tanegashima Space Center, Japan",Japan,30.400938,130.97564,19,true,https://ll.thespacedevs.com/2.3.0/pads/209/,2026-11-15
+Unknown Pad,"Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",New Zealand,-39.260881,177.865826,0,true,https://ll.thespacedevs.com/2.3.0/pads/210/,2026-11-15
+Launch Complex 1,"Hokkaido Spaceport, Japan",Japan,42.5,143.441389,0,true,https://ll.thespacedevs.com/2.3.0/pads/211/,2026-11-15
+Unknown launch location,Haiyang Oriental Spaceport,China,36.676794,121.235103,0,true,https://ll.thespacedevs.com/2.3.0/pads/212/,2026-11-15
+Launch Pad Callum,SaxaVord Spaceport,United Kingdom,,,0,true,https://ll.thespacedevs.com/2.3.0/pads/213/,2026-11-15
+Launch Pad Elizabeth,SaxaVord Spaceport,United Kingdom,,,0,true,https://ll.thespacedevs.com/2.3.0/pads/214/,2026-11-15
+Pad 1,"Koonibba Test Range, South Australia",Australia,-31.885558,133.448686,1,true,https://ll.thespacedevs.com/2.3.0/pads/215/,2026-11-15
+ADD Offshore launch platform,Sea Launch,South Korea,33.216667,126.366667,1,true,https://ll.thespacedevs.com/2.3.0/pads/216/,2026-11-15
+South China Sea (launch location 1),Haiyang Oriental Spaceport,China,21.283333,112.0,2,true,https://ll.thespacedevs.com/2.3.0/pads/217/,2026-11-15
+Commercial LC-1,"Wenchang Space Launch Site, People's Republic of China",China,19.597275,110.930753,15,true,https://ll.thespacedevs.com/2.3.0/pads/218/,2026-11-15
+Commercial LC-2,"Wenchang Space Launch Site, People's Republic of China",China,19.59755,110.936481,11,true,https://ll.thespacedevs.com/2.3.0/pads/219/,2026-11-15
+Space One Launch Pad,"Spaceport Kii, Japan",Japan,33.544224,135.889502,3,true,https://ll.thespacedevs.com/2.3.0/pads/220/,2026-11-15
+Rizhao offshore launch location,Haiyang Oriental Spaceport,China,35.391667,119.598667,8,true,https://ll.thespacedevs.com/2.3.0/pads/221/,2026-11-15
+Commercial LC-3,"Wenchang Space Launch Site, People's Republic of China",China,19.588295,110.918467,0,true,https://ll.thespacedevs.com/2.3.0/pads/222/,2026-11-15
+Tranquility Base,"Mare Tranquillitatis, Moon",,0.6875,23.4333,1,false,https://ll.thespacedevs.com/2.3.0/pads/223/,2026-11-15
+Apollo 12 landing site,"Oceanus Procellarum, Moon",,-3.01239,-23.42157,1,false,https://ll.thespacedevs.com/2.3.0/pads/224/,2026-11-15
+Apollo 14 landing site,"Fra Mauro Formation, Moon",,-3.6453,-17.47136,1,false,https://ll.thespacedevs.com/2.3.0/pads/225/,2026-11-15
+Apollo 15 landing site,"Hadley–Apennine, Moon",,26.1322,3.6339,1,false,https://ll.thespacedevs.com/2.3.0/pads/226/,2026-11-15
+Apollo 16 landing site,"Descartes Highlands, Moon",,-8.97301,15.50019,1,false,https://ll.thespacedevs.com/2.3.0/pads/227/,2026-11-15
+Apollo 17 landing site,"Taurus–Littrow, Moon",,20.1908,30.7717,1,false,https://ll.thespacedevs.com/2.3.0/pads/228/,2026-11-15
+Luna 16 landing site,"Mare Fecunditatis, Moon",,-0.5137,56.3638,1,false,https://ll.thespacedevs.com/2.3.0/pads/229/,2026-11-15
+Luna 20 landing site,"Terra Apollonius, Moon",,3.7863,56.6242,1,false,https://ll.thespacedevs.com/2.3.0/pads/230/,2026-11-15
+Luna 24 landing site,"Mare Crisium, Moon",,12.7145,62.2097,1,false,https://ll.thespacedevs.com/2.3.0/pads/231/,2026-11-15
+Chang’e 5 landing site,"Mons Rümker, Moon",,43.0576,-51.9161,1,false,https://ll.thespacedevs.com/2.3.0/pads/232/,2026-11-15
+Chang’e 6 landing site,"Apollo crater, Moon",,-41.6385,-153.9852,1,false,https://ll.thespacedevs.com/2.3.0/pads/233/,2026-11-15
+Rocket Lab Launch Complex 3 (Launch Area 0 D),"Wallops Flight Facility, Virginia, USA",United States of America,37.8321693,-75.4899046,0,true,https://ll.thespacedevs.com/2.3.0/pads/234/,2026-11-15
+Orbital Launch Pad 2,"SpaceX Starbase, TX, USA",United States of America,25.99677,-97.15799,4,true,https://ll.thespacedevs.com/2.3.0/pads/235/,2026-11-15
+Launch Complex 3C,Esrange Space Center,Sweden,67.876724,21.166866,0,true,https://ll.thespacedevs.com/2.3.0/pads/236/,2026-11-15
+Unknown Pad,SaxaVord Spaceport,United Kingdom,60.8184,-0.7692,0,false,https://ll.thespacedevs.com/2.3.0/pads/237/,2026-11-15
+Eris Pad,Bowen Orbital Spaceport,Australia,-19.958151,148.1129553,1,true,https://ll.thespacedevs.com/2.3.0/pads/238/,2026-11-15
+Launch Complex 3B,Esrange Space Center,Sweden,67.877368,21.165001,0,true,https://ll.thespacedevs.com/2.3.0/pads/239/,2026-11-15
+HANBIT Pad,"Alcântara Space Center, Federative Republic of Brazil",Brazil,-2.31698,-44.36873,2,true,https://ll.thespacedevs.com/2.3.0/pads/240/,2026-11-15
+301,"Wenchang Space Launch Site, People's Republic of China",China,19.610019,110.944443,0,true,https://ll.thespacedevs.com/2.3.0/pads/241/,2026-11-15
+Commercial LC-4,"Wenchang Space Launch Site, People's Republic of China",China,19.584603,110.915394,0,true,https://ll.thespacedevs.com/2.3.0/pads/242/,2026-11-15
+Launch Area 96B,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.92017,100.25129,2,true,https://ll.thespacedevs.com/2.3.0/pads/243/,2026-11-15
+Launch Area 140,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.81748,100.21939,2,true,https://ll.thespacedevs.com/2.3.0/pads/244/,2026-11-15
+Tianlong-3 Launch Pad,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.8072,100.13644,1,true,https://ll.thespacedevs.com/2.3.0/pads/245/,2026-11-15
+Pallas-1 Launch Pad,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.775962,100.107214,1,true,https://ll.thespacedevs.com/2.3.0/pads/246/,2026-11-15
+Long March 12 series Pad,"Jiuquan Satellite Launch Center, People's Republic of China",China,40.891596,100.217289,2,true,https://ll.thespacedevs.com/2.3.0/pads/247/,2026-11-15
+Yellow Sea (launch location 3),Haiyang Oriental Spaceport,China,32.183333,123.8,1,true,https://ll.thespacedevs.com/2.3.0/pads/248/,2026-11-15
+Yellow Sea (launch location 4),Haiyang Oriental Spaceport,China,37.3395,123.7115,1,true,https://ll.thespacedevs.com/2.3.0/pads/249/,2026-11-15
+South China Sea (launch location 2),Haiyang Oriental Spaceport,China,21.566667,112.033333,1,true,https://ll.thespacedevs.com/2.3.0/pads/250/,2026-11-15
+South China Sea (launch location 3),Haiyang Oriental Spaceport,China,21.366667,112.116667,2,true,https://ll.thespacedevs.com/2.3.0/pads/251/,2026-11-15
+Land Launch Pad 1,Haiyang Oriental Spaceport,China,36.664312,121.188333,0,true,https://ll.thespacedevs.com/2.3.0/pads/252/,2026-11-15
+Space Launch Complex 14,"Vandenberg SFB, CA, USA",United States of America,34.560999,-120.570646,0,true,https://ll.thespacedevs.com/2.3.0/pads/253/,2026-11-15
+Launch Complex 3,Etlaq Spaceport,Oman,18.7862,56.822,0,true,https://ll.thespacedevs.com/2.3.0/pads/254/,2026-11-15
+Yellow Sea (launch location 5),Haiyang Oriental Spaceport,China,31.2,123.7,2,true,https://ll.thespacedevs.com/2.3.0/pads/255/,2026-11-15
+Rocket Lab Launch Complex 4A (Launch Pad 3D),"Pacific Spaceport Complex, Alaska, USA",United States of America,57.430024,-152.358268,0,true,https://ll.thespacedevs.com/2.3.0/pads/256/,2026-11-15
+Rocket Lab Launch Complex 4B (Launch Pad 3A),"Pacific Spaceport Complex, Alaska, USA",United States of America,57.432163,-152.34997,0,true,https://ll.thespacedevs.com/2.3.0/pads/257/,2026-11-15
+SSLV Launch Complex,"Kulasekarapattinam Spaceport, India",India,8.3588887,78.0182402,0,true,https://ll.thespacedevs.com/2.3.0/pads/258/,2026-11-15
